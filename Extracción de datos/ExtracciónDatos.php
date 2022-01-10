@@ -8,6 +8,6 @@ $extraer = substr($post, 0, 5);
 echo $extraer;
 
 //Ejemplo 2 eliminar espacios
-$data = "Jose";
+$data = "gitJose";
 $conver = trim($data);
 echo $conver;
